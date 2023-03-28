@@ -90,7 +90,6 @@
         'libxslt/libexslt/strings.c'
       ],
       'dependencies': [
-        'xmljs-myh',
         'libxslt'
       ],
       'link_settings': {
